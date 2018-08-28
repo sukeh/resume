@@ -1,0 +1,45 @@
+@charset "utf-8";
+.top-ul li{
+	height:30px;
+	line-height:30px;
+}
+.header{
+	padding:10px ;
+	border-bottom:solid 1px #fcedaf;
+	background: -webkit-linear-gradient(#8be0f8, #44cff6);
+}
+.footer{
+	background: -webkit-linear-gradient(#8be0f8, #44cff6);
+	height:30px;
+	font-size:17px;
+	text-align:center;
+	line-height:30px;
+	color:#fff;
+}
+.name{
+	color:#2c2e2f;
+	
+}
+.photoico{
+	border-radius:5px;
+	float:right;
+}
+.container{
+	min-width:350px;
+	
+}
+.glyphicon{
+	padding-right:2px;
+}
+.marks{
+	float:right;
+}
+.piece{
+	border:1px solid red;
+	border-radius:10px;
+	
+}
+.section-title{
+	
+	
+}
